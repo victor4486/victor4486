@@ -1,6 +1,10 @@
 # 💫 About Me:
-Graduado em Gestão da Qualidade e graduando em Análise e Desenvolvimento de Sistemas<br>Desejo contribuir em projetos para adquirir experiência e entrar no mercado como desenvolvedor<br>Preciso de ajuda com design e componentes mais complexos <br>Atualmente estou aprendendo Front-end: HTML, CSS com aplicação de Flask e bootstrap. Back-end: Python. Núvem da AWS<br>
-
+I'm Victor Souza and have 21 years;
+Graduated in Quality Management 📈
+Studying Systems Analysis and Development 💻 
+Front-end knowledge in HTML5, CSS3 and Bootstrap
+Back-end knowledge in Python;
+Clound knowledge in AWS clound.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100017005422744) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vitorsss__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/victor-hugo-barbosa-souza-116b81178/) 
