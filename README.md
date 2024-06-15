@@ -3,7 +3,7 @@ I'm Victor Souza and have 21 years; <br>
 Graduated in Quality Management 📈; <br>
 Studying Systems Analysis and Development 💻; <br>
 Front-end knowledge in HTML5, CSS3 and Bootstrap;<br>
-Back-end knowledge in Python;<br>
+Back-end knowledge in Python and Java;<br>
 Clound knowledge in AWS clound.<br>
 
 ## 🌐 Socials:
