@@ -4,6 +4,7 @@ Graduated in Quality Management 📈; <br>
 Studying Systems Analysis and Development 💻; <br>
 Front-end knowledge in HTML5, CSS3 and Bootstrap;<br>
 Back-end knowledge in Python and Java;<br>
+Databases knowledge in MySQL and PostGreSQL; <br>
 Clound knowledge in AWS clound.<br>
 
 ## 🌐 Socials:
