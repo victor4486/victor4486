@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Victor Souza and have 21 years; <br>
 Graduated in Quality Management 📈; <br>
-Studying Systems Analysis and Development 💻; <br>
+Studying Database 💻; <br>
 Front-end knowledge in HTML5, CSS3 and Bootstrap;<br>
 Back-end knowledge in Python and Java;<br>
 Databases knowledge in MySQL and PostGreSQL; <br>
